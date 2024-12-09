@@ -1,4 +1,7 @@
-A Final Website Project For The First Semester.
+## A Final Website Project For The First Semester.
 
-https://khryz-navarro.github.io/IntroToComputing-Website-Project/
-https://intro-to-computing-website-project-pied.vercel.app/
+[GitHub](https://khryz-navarro.github.io/IntroToComputing-Website-Project/)
+
+<br>
+
+[vercel](https://intro-to-computing-website-project-pied.vercel.app/)
